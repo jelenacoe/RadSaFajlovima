@@ -1,0 +1,13 @@
+C:\Users\cmt\Desktop\Vezba5 - Primer\Z1\bin\Debug\Z1.exe.config
+C:\Users\cmt\Desktop\Vezba5 - Primer\Z1\bin\Debug\Z1.exe
+C:\Users\cmt\Desktop\Vezba5 - Primer\Z1\bin\Debug\Z1.pdb
+C:\Users\cmt\Desktop\Vezba5 - Primer\Z1\obj\Debug\Z1.csprojResolveAssemblyReference.cache
+C:\Users\cmt\Desktop\Vezba5 - Primer\Z1\obj\Debug\Z1.exe
+C:\Users\cmt\Desktop\Vezba5 - Primer\Z1\obj\Debug\Z1.pdb
+C:\Users\Zorana\Downloads\Uvod u .NET (2) - Zadaci\Vezba5 - Primer\Z1\bin\Debug\Z1.exe.config
+C:\Users\Zorana\Downloads\Uvod u .NET (2) - Zadaci\Vezba5 - Primer\Z1\bin\Debug\Z1.exe
+C:\Users\Zorana\Downloads\Uvod u .NET (2) - Zadaci\Vezba5 - Primer\Z1\bin\Debug\Z1.pdb
+C:\Users\Zorana\Downloads\Uvod u .NET (2) - Zadaci\Vezba5 - Primer\Z1\obj\Debug\Z1.csprojAssemblyReference.cache
+C:\Users\Zorana\Downloads\Uvod u .NET (2) - Zadaci\Vezba5 - Primer\Z1\obj\Debug\Z1.csproj.CoreCompileInputs.cache
+C:\Users\Zorana\Downloads\Uvod u .NET (2) - Zadaci\Vezba5 - Primer\Z1\obj\Debug\Z1.exe
+C:\Users\Zorana\Downloads\Uvod u .NET (2) - Zadaci\Vezba5 - Primer\Z1\obj\Debug\Z1.pdb
